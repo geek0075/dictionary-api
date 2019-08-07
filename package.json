@@ -1,0 +1,16 @@
+{
+  "name": "dict-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "superagent": "^5.1.0"
+  }
+}
